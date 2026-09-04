@@ -1,0 +1,13 @@
+Use case (Health Chatbot):
+Develop RAG based application for creating Health chatbot using LangChain & Gradio UI API. Your chatbot should help customers in following areas:
+Suggesting good diet plan for overcoming Vitamin deficiencies.
+Giving yoga tips to overcome health related problems.
+
+Knowledge base:
+Watch health related youtube videos & download their transcripts.
+Collect the URLs of various health related blogs
+Download yoga related PDF books
+
+Time required: 3 hrs [Approx]
+Last submission date: 07-Aug-2026 by 9 PM
+Instructions: You will send the code to me (anand.kulkarni1@zensar.com). Copy the entire python program & paste it inside Email body. Do not send the code as an attachment. Also, do not send the knowledge base files.
